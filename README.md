@@ -1,2 +1,2 @@
-# -STE-BMM
-İskenderun Teknik Üniversitesinde vermiş olduğum derslerin ders notlarını içerir.
+# ISTE-BMM
+İskenderun Teknik Üniversitesi'nde vermiş olduğum derslerin uygulama (Python/Jupyter Notebook) notlarını içerir.
